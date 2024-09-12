@@ -1,0 +1,50 @@
+.input-data{
+   padding: 8px 0px;
+   padding-right: 250px;
+   border-radius: 6px;
+   box-shadow: 4px 4px 8px gray;
+   border-color: rgb(237, 228, 228);
+}
+.search-btn{
+    padding: 8px 15px;
+    border-radius:6px ;
+    border: none;
+}
+.data-container{
+    text-align: center;
+    margin: 100px ;
+}
+
+.meal-img{
+
+    width: 200px;
+    height: 150px;
+    border-radius: 6px;
+
+}
+.child{
+    text-align: center;
+    width: 200px;
+    height: 240px;  
+    border-radius: 6px;
+    margin-left: 50px;
+    box-shadow: 5px 5px 8px rgb(162, 153, 153);
+
+}
+.meal-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.txt{
+
+    text-align: center;
+    font-weight: bold;
+}
+#details-img{
+
+    width: 100%;
+    height: 270px;
+    border-radius: 7px ;
+}
+.modal-body{ box-shadow: 4px 4px 8px rgb(98, 97, 97);}
